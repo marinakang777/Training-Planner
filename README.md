@@ -110,7 +110,7 @@ git add tests/                 # если есть тесты
 git commit -m "Initial commit: Training Planner application"
 
 # Добавление удалённого репозитория
-git remote add origin https://github.com/ВАШ_ЛОГИН/training-planner.git
+git remote add origin https://github.com/marinakang777/Training-Planner.git
 
 # Пуш
 git push -u origin main
